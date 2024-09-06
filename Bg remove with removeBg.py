@@ -2,7 +2,7 @@ import requests
 
 
 url = 'https://api.remove.bg/v1.0/removebg'
-api_key = 'APK5XHQjJjrqFf22UH1JYAZF'
+api_key = Your API key
 
 response = requests.post(
     url,
